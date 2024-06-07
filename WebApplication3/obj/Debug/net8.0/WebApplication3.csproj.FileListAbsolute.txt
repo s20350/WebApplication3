@@ -1,0 +1,6 @@
+/Users/michalswiostek/Desktop/Zad3App1/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.csproj.AssemblyReference.cache
+/Users/michalswiostek/Desktop/Zad3App1/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalswiostek/Desktop/Zad3App1/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.AssemblyInfoInputs.cache
+/Users/michalswiostek/Desktop/Zad3App1/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.AssemblyInfo.cs
+/Users/michalswiostek/Desktop/Zad3App1/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.csproj.CoreCompileInputs.cache
+/Users/michalswiostek/Desktop/Zad3App1/WebApplication3/WebApplication3/obj/Debug/net8.0/WebApplication3.MvcApplicationPartsAssemblyInfo.cache
